@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chess",
+  "description": "An advanced chess application powered by the Gemini API, offering features like local and AI gameplay, move-by-move evaluation, win-rate calculation, and game data export, all wrapped in a sleek, modern, and animated UI.",
+  "requestFramePermissions": []
+}
